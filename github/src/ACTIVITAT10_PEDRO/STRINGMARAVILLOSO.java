@@ -19,5 +19,7 @@ public class STRINGMARAVILLOSO {
 
         metodes.partInferior(M);
         
+        System.out.println("Modificació petita.");
+        
     }
 }
